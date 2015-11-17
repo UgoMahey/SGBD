@@ -5,13 +5,20 @@
 #include <vector>
 #include <stdexcept>
 #include <stdlib.h>
+#include <regex>
 
 using namespace std;
 
 bool estValide(string l1){
-	return not (l1 == "}");
-
-
+	if(l1 == "}" && regex_match(l1,regex("[0-99]\-[0-99]\-[0-99]\,"))){
+		return true;
+	}
+	
+	
+	
+	
+	
+	return false;
 }
 
 
@@ -41,9 +48,7 @@ vector<string> recupere(string nom){
             	//cout<<ligne<<endl;
             	tabLigne.push_back(ligne);
             }
-            else{
-            	cout<<ligne<<endl;	
-            }
+           
 
         }
 
@@ -80,11 +85,11 @@ void ecrit(const vector<string> &tab, string nom){
 
 int main(){
 	
-	vector<string> res = recupere("fichier_query.csv");
+	vector<string> res = recupere("fichier_query2.csv");
 	
 	cout<<res[1]<<endl;
 	
-	ecrit(recupere("fichier_query.csv"),"fichier_query_transf.csv");
+	ecrit(recupere("fichier_query2.csv"),"fichier_query_transf2.csv");
 	
 	
 
@@ -93,16 +98,4 @@ int main(){
 
 return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
