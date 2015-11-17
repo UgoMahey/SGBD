@@ -1,0 +1,3086 @@
+date;ip;port;endpoint;query
+15:08:55;172.16.8.89;8711;<http://localhost:8711/dbpediaLabels>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:55; 172.16.8.89;8711;<http://localhost:8711/dbpediaLabels>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:56;172.16.8.89;8719;<http://localhost:8719/dbpediaLGD>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:56; 172.16.8.89;8719;<http://localhost:8719/dbpediaLGD>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:56;172.16.8.89;8709;<http://localhost:8709/dbpediaInstancesTypes>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:56; 172.16.8.89;8709;<http://localhost:8709/dbpediaInstancesTypes>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:57;172.16.8.89;8718;<http://localhost:8718/dbpediaNytimes>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:57; 172.16.8.89;8718;<http://localhost:8718/dbpediaNytimes>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:57;172.16.8.89;8712;<http://localhost:8712/dbpediaArticles>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:57; 172.16.8.89;8712;<http://localhost:8712/dbpediaArticles>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:58;172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:58; 172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:58;172.16.8.89;8713;<http://localhost:8713/dbpediaCategoryLabels>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:58; 172.16.8.89;8713;<http://localhost:8713/dbpediaCategoryLabels>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:08:58;172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent .?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58; 172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent .?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58;172.16.8.89;8711;<http://localhost:8711/dbpediaLabels>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58; 172.16.8.89;8711;<http://localhost:8711/dbpediaLabels>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58;172.16.8.89;8719;<http://localhost:8719/dbpediaLGD>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58; 172.16.8.89;8719;<http://localhost:8719/dbpediaLGD>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58;172.16.8.89;8709;<http://localhost:8709/dbpediaInstancesTypes>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58; 172.16.8.89;8709;<http://localhost:8709/dbpediaInstancesTypes>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58;172.16.8.89;8718;<http://localhost:8718/dbpediaNytimes>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58; 172.16.8.89;8718;<http://localhost:8718/dbpediaNytimes>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58;172.16.8.89;8712;<http://localhost:8712/dbpediaArticles>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58; 172.16.8.89;8712;<http://localhost:8712/dbpediaArticles>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58;172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58; 172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58;172.16.8.89;8713;<http://localhost:8713/dbpediaCategoryLabels>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58; 172.16.8.89;8713;<http://localhost:8713/dbpediaCategoryLabels>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:08:58;172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent .?parent <http://www.geonames.org/ontology#name> 'California' .?y <http://www.geonames.org/ontology#name> ?location . }
+15:08:58; 172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent .?parent <http://www.geonames.org/ontology#name> 'California' .?y <http://www.geonames.org/ontology#name> ?location . }
+15:08:58;172.16.8.89;8704;<http://localhost:8704/nytimesNews>;ASK { ?y <http://data.nytimes.com/elements/topicPage> ?news .?y <http://www.geonames.org/ontology#name> ?location . }
+15:08:58; 172.16.8.89;8704;<http://localhost:8704/nytimesNews>;ASK { ?y <http://data.nytimes.com/elements/topicPage> ?news .?y <http://www.geonames.org/ontology#name> ?location . }
+15:08:58;172.16.8.89;8711;<http://localhost:8711/dbpediaLabels>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:08:58; 172.16.8.89;8711;<http://localhost:8711/dbpediaLabels>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:08:59;172.16.8.89;8719;<http://localhost:8719/dbpediaLGD>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:08:59; 172.16.8.89;8719;<http://localhost:8719/dbpediaLGD>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:08:59;172.16.8.89;8709;<http://localhost:8709/dbpediaInstancesTypes>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:08:59; 172.16.8.89;8709;<http://localhost:8709/dbpediaInstancesTypes>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:09:00;172.16.8.89;8718;<http://localhost:8718/dbpediaNytimes>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:09:00; 172.16.8.89;8718;<http://localhost:8718/dbpediaNytimes>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:09:01;172.16.8.89;8712;<http://localhost:8712/dbpediaArticles>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:09:01; 172.16.8.89;8712;<http://localhost:8712/dbpediaArticles>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:09:01;172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:09:01; 172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:09:01;172.16.8.89;8713;<http://localhost:8713/dbpediaCategoryLabels>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:09:01; 172.16.8.89;8713;<http://localhost:8713/dbpediaCategoryLabels>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:09:02;172.16.8.89;8704;<http://localhost:8704/nytimesNews>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:09:02; 172.16.8.89;8704;<http://localhost:8704/nytimesNews>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:09:02;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?parent ?location WHERE {
+        ?parent <http://www.geonames.org/ontology#name> 'California' . 
+        ?location <http://www.geonames.org/ontology#parentFeature> ?parent
+
+} LIMIT 10000 OFFSET 0
+15:09:02; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?parent ?location WHERE {
+        ?parent <http://www.geonames.org/ontology#name> 'California' . 
+        ?location <http://www.geonames.org/ontology#parentFeature> ?parent
+
+} LIMIT 10000 OFFSET 0
+15:09:02;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 0
+15:09:02; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 0
+15:09:02;172.16.8.89;8704;<http://localhost:8704/nytimesNews>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 0
+15:09:02;172.16.8.89;8704;<http://localhost:8704/nytimesNews>;SELECT ?y ?news WHERE {
+        ?y <http://data.nytimes.com/elements/topicPage> ?news
+
+} LIMIT 10000 OFFSET 0
+15:09:02; 172.16.8.89;8704;<http://localhost:8704/nytimesNews>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 0
+15:09:02; 172.16.8.89;8704;<http://localhost:8704/nytimesNews>;SELECT ?y ?news WHERE {
+        ?y <http://data.nytimes.com/elements/topicPage> ?news
+
+} LIMIT 10000 OFFSET 0
+15:09:03;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 10000
+15:09:03; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 10000
+15:09:04;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 20000
+15:09:04; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 20000
+15:09:05;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 30000
+15:09:05; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 30000
+15:09:06;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 40000
+15:09:06; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 40000
+15:09:07;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 50000
+15:09:07; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 50000
+15:09:08;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 60000
+15:09:08; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 60000
+15:09:08;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 70000
+15:09:08; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 70000
+15:09:09;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 80000
+15:09:09; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 80000
+15:09:10;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 90000
+15:09:10; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 90000
+15:09:11;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 100000
+15:09:11; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 100000
+15:09:12;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 110000
+15:09:12; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 110000
+15:09:13;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 120000
+15:09:13; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 120000
+15:09:14;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 130000
+15:09:14; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 130000
+15:09:15;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 140000
+15:09:15; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 140000
+15:09:16;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 150000
+15:09:16; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 150000
+15:09:17;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 160000
+15:09:17; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 160000
+15:09:18;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 170000
+15:09:18; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 170000
+15:09:19;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 180000
+15:09:19; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 180000
+15:09:20;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 190000
+15:09:20; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 190000
+15:09:21;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 200000
+15:09:21; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 200000
+15:09:22;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 210000
+15:09:22; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 210000
+15:09:23;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 220000
+15:09:23; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 220000
+15:09:24;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 230000
+15:09:24; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 230000
+15:09:25;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 240000
+15:09:25; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 240000
+15:09:26;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 250000
+15:09:26; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 250000
+15:09:27;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 260000
+15:09:27; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 260000
+15:09:28;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 270000
+15:09:28; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 270000
+15:09:29;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 280000
+15:09:29; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 280000
+15:09:30;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 290000
+15:09:30; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 290000
+15:09:31;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 300000
+15:09:31; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 300000
+15:09:32;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 310000
+15:09:32; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 310000
+15:09:33;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 320000
+15:09:33; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 320000
+15:09:34;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 330000
+15:09:34; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 330000
+15:09:35;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 340000
+15:09:35; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 340000
+15:09:36;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 350000
+15:09:36; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 350000
+15:09:37;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 360000
+15:09:37; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 360000
+15:09:38;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 370000
+15:09:38; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 370000
+15:09:39;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 380000
+15:09:39; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 380000
+15:09:40;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 390000
+15:09:40; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 390000
+15:09:41;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 400000
+15:09:41; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 400000
+15:09:43;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 410000
+15:09:43; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 410000
+15:09:44;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 420000
+15:09:44; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 420000
+15:09:45;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 430000
+15:09:45; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 430000
+15:09:46;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 440000
+15:09:46; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 440000
+15:09:47;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 450000
+15:09:47; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 450000
+15:09:48;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 460000
+15:09:48; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 460000
+15:09:49;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 470000
+15:09:49; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 470000
+15:09:50;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 480000
+15:09:50; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 480000
+15:09:52;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 490000
+15:09:52; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 490000
+15:09:53;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 500000
+15:09:53; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 500000
+15:09:54;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 510000
+15:09:54; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 510000
+15:09:55;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 520000
+15:09:55; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 520000
+15:09:56;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 530000
+15:09:56; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 530000
+15:09:58;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 540000
+15:09:58; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 540000
+15:09:59;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 550000
+15:09:59; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 550000
+15:10:00;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 560000
+15:10:00; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 560000
+15:10:01;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 570000
+15:10:01; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 570000
+15:10:02;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 580000
+15:10:02; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 580000
+15:10:03;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 590000
+15:10:03; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 590000
+15:10:05;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 600000
+15:10:05; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 600000
+15:10:06;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 610000
+15:10:06; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 610000
+15:10:07;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 620000
+15:10:07; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 620000
+15:10:08;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 630000
+15:10:08; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 630000
+15:10:09;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 640000
+15:10:09; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 640000
+15:10:11;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 650000
+15:10:11; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 650000
+15:10:12;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 660000
+15:10:12; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 660000
+15:10:13;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 670000
+15:10:13; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 670000
+15:10:14;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 680000
+15:10:14; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 680000
+15:10:16;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 690000
+15:10:16; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 690000
+15:10:17;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 700000
+15:10:17; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 700000
+15:10:18;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 710000
+15:10:18; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 710000
+15:10:19;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 720000
+15:10:19; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 720000
+15:10:21;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 730000
+15:10:21; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 730000
+15:10:22;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 740000
+15:10:22; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 740000
+15:10:23;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 750000
+15:10:23; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 750000
+15:10:25;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 760000
+15:10:25; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 760000
+15:10:26;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 770000
+15:10:26; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 770000
+15:10:27;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 780000
+15:10:27; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 780000
+15:10:28;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 790000
+15:10:28; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 790000
+15:10:30;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 800000
+15:10:30; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 800000
+15:10:31;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 810000
+15:10:31; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 810000
+15:10:32;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 820000
+15:10:32; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 820000
+15:10:34;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 830000
+15:10:34; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 830000
+15:10:35;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 840000
+15:10:35; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 840000
+15:10:36;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 850000
+15:10:36; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 850000
+15:10:37;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 860000
+15:10:37; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 860000
+15:10:39;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 870000
+15:10:39; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 870000
+15:10:40;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 880000
+15:10:40; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 880000
+15:10:41;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 890000
+15:10:41; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 890000
+15:10:42;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 900000
+15:10:42; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 900000
+15:10:43;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 910000
+15:10:43; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 910000
+15:10:45;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 920000
+15:10:45; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 920000
+15:10:46;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 930000
+15:10:46; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 930000
+15:10:47;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 940000
+15:10:47; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 940000
+15:10:49;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 950000
+15:10:49; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 950000
+15:10:50;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 960000
+15:10:50; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 960000
+15:10:51;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 970000
+15:10:51; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 970000
+15:10:53;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 980000
+15:10:53; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 980000
+15:10:54;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 990000
+15:10:54; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 990000
+15:10:55;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1000000
+15:10:55; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1000000
+15:10:57;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1010000
+15:10:57; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1010000
+15:10:58;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1020000
+15:10:58; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1020000
+15:10:59;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1030000
+15:10:59; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1030000
+15:11:01;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1040000
+15:11:01; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1040000
+15:11:02;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1050000
+15:11:02; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1050000
+15:11:04;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1060000
+15:11:04; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1060000
+15:11:05;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1070000
+15:11:05; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1070000
+15:11:07;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1080000
+15:11:07; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1080000
+15:11:08;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1090000
+15:11:08; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1090000
+15:11:10;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1100000
+15:11:10; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1100000
+15:11:11;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1110000
+15:11:11; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1110000
+15:11:12;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1120000
+15:11:12; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1120000
+15:11:14;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1130000
+15:11:14; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1130000
+15:11:15;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1140000
+15:11:15; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1140000
+15:11:16;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1150000
+15:11:16; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1150000
+15:11:18;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1160000
+15:11:18; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1160000
+15:11:19;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1170000
+15:11:19; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1170000
+15:11:21;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1180000
+15:11:21; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1180000
+15:11:22;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1190000
+15:11:22; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1190000
+15:11:24;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1200000
+15:11:24; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1200000
+15:11:25;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1210000
+15:11:25; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1210000
+15:11:26;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1220000
+15:11:26; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1220000
+15:11:28;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1230000
+15:11:28; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1230000
+15:11:29;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1240000
+15:11:29; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1240000
+15:11:30;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1250000
+15:11:30; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1250000
+15:11:32;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1260000
+15:11:32; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1260000
+15:11:33;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1270000
+15:11:33; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1270000
+15:11:35;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1280000
+15:11:35; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1280000
+15:11:36;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1290000
+15:11:36; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1290000
+15:11:38;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1300000
+15:11:38; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1300000
+15:11:39;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1310000
+15:11:39; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1310000
+15:11:41;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1320000
+15:11:41; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1320000
+15:11:42;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1330000
+15:11:42; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1330000
+15:11:44;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1340000
+15:11:44; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1340000
+15:11:45;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1350000
+15:11:45; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1350000
+15:11:47;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1360000
+15:11:47; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1360000
+15:11:48;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1370000
+15:11:48; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1370000
+15:11:50;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1380000
+15:11:50; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1380000
+15:11:51;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1390000
+15:11:51; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1390000
+15:11:53;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1400000
+15:11:53; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1400000
+15:11:54;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1410000
+15:11:54; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1410000
+15:11:56;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1420000
+15:11:56; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1420000
+15:11:57;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1430000
+15:11:57; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1430000
+15:11:59;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1440000
+15:11:59; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1440000
+15:12:00;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1450000
+15:12:00; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1450000
+15:12:02;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1460000
+15:12:02; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1460000
+15:12:04;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1470000
+15:12:04; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1470000
+15:12:05;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1480000
+15:12:05; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1480000
+15:12:06;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1490000
+15:12:06; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1490000
+15:12:08;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1500000
+15:12:08; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1500000
+15:12:09;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1510000
+15:12:09; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1510000
+15:12:11;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1520000
+15:12:11; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1520000
+15:12:13;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1530000
+15:12:13; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1530000
+15:12:14;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1540000
+15:12:14; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1540000
+15:12:15;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1550000
+15:12:15; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1550000
+15:12:17;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1560000
+15:12:17; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1560000
+15:12:18;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1570000
+15:12:18; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1570000
+15:12:20;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1580000
+15:12:20; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1580000
+15:12:22;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1590000
+15:12:22; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1590000
+15:12:23;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1600000
+15:12:23; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1600000
+15:12:25;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1610000
+15:12:25; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1610000
+15:12:26;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1620000
+15:12:26; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1620000
+15:12:28;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1630000
+15:12:28; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1630000
+15:12:29;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1640000
+15:12:29; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1640000
+15:12:30;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1650000
+15:12:30; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1650000
+15:12:32;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1660000
+15:12:32; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1660000
+15:12:34;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1670000
+15:12:34; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1670000
+15:12:35;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1680000
+15:12:35; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1680000
+15:12:36;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1690000
+15:12:36; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1690000
+15:12:38;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1700000
+15:12:38; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1700000
+15:12:40;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1710000
+15:12:40; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1710000
+15:12:41;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1720000
+15:12:41; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1720000
+15:12:43;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1730000
+15:12:43; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1730000
+15:12:44;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1740000
+15:12:44; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1740000
+15:12:46;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1750000
+15:12:46; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1750000
+15:12:47;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1760000
+15:12:47; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1760000
+15:12:48;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1770000
+15:12:48; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1770000
+15:12:50;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1780000
+15:12:50; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1780000
+15:12:52;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1790000
+15:12:52; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1790000
+15:12:53;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1800000
+15:12:53; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1800000
+15:12:55;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1810000
+15:12:55; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1810000
+15:12:56;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1820000
+15:12:56; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1820000
+15:12:58;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1830000
+15:12:58; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1830000
+15:12:59;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1840000
+15:12:59; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1840000
+15:13:00;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1850000
+15:13:00; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1850000
+15:13:02;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1860000
+15:13:02; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1860000
+15:13:04;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1870000
+15:13:04; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1870000
+15:13:05;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1880000
+15:13:05; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1880000
+15:13:07;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1890000
+15:13:07; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1890000
+15:13:08;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1900000
+15:13:08; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1900000
+15:13:10;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1910000
+15:13:10; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1910000
+15:13:11;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1920000
+15:13:11; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1920000
+15:13:13;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1930000
+15:13:13; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1930000
+15:13:14;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1940000
+15:13:14; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1940000
+15:13:16;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1950000
+15:13:16; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1950000
+15:13:17;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1960000
+15:13:17; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1960000
+15:13:19;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1970000
+15:13:19; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1970000
+15:13:20;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1980000
+15:13:20; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1980000
+15:13:22;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1990000
+15:13:22; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 1990000
+15:13:23;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2000000
+15:13:23; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2000000
+15:13:25;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2010000
+15:13:25; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2010000
+15:13:27;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2020000
+15:13:27; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2020000
+15:13:28;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2030000
+15:13:28; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2030000
+15:13:30;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2040000
+15:13:30; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2040000
+15:13:32;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2050000
+15:13:32; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2050000
+15:13:33;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2060000
+15:13:33; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2060000
+15:13:35;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2070000
+15:13:35; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2070000
+15:13:37;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2080000
+15:13:37; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2080000
+15:13:39;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2090000
+15:13:39; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2090000
+15:13:40;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2100000
+15:13:40; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2100000
+15:13:42;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2110000
+15:13:42; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2110000
+15:13:43;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2120000
+15:13:43; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2120000
+15:13:45;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2130000
+15:13:45; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2130000
+15:13:47;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2140000
+15:13:47; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2140000
+15:13:48;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2150000
+15:13:48; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2150000
+15:13:49;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2160000
+15:13:49; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2160000
+15:13:51;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2170000
+15:13:51; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2170000
+15:13:53;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2180000
+15:13:53; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2180000
+15:13:54;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2190000
+15:13:54; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2190000
+15:13:56;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2200000
+15:13:56; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2200000
+15:13:58;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2210000
+15:13:58; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2210000
+15:13:59;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2220000
+15:13:59; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2220000
+15:14:01;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2230000
+15:14:01; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2230000
+15:14:03;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2240000
+15:14:03; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2240000
+15:14:05;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2250000
+15:14:05; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2250000
+15:14:06;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2260000
+15:14:06; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2260000
+15:14:08;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2270000
+15:14:08; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2270000
+15:14:10;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2280000
+15:14:10; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2280000
+15:14:11;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2290000
+15:14:11; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2290000
+15:14:13;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2300000
+15:14:13; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2300000
+15:14:14;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2310000
+15:14:14; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2310000
+15:14:16;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2320000
+15:14:16; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2320000
+15:14:18;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2330000
+15:14:18; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2330000
+15:14:20;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2340000
+15:14:20; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2340000
+15:14:21;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2350000
+15:14:21; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2350000
+15:14:23;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2360000
+15:14:23; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2360000
+15:14:25;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2370000
+15:14:25; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2370000
+15:14:27;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2380000
+15:14:27; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2380000
+15:14:29;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2390000
+15:14:29; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2390000
+15:14:31;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2400000
+15:14:31; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2400000
+15:14:32;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2410000
+15:14:32; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2410000
+15:14:34;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2420000
+15:14:34; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2420000
+15:14:36;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2430000
+15:14:36; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2430000
+15:14:38;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2440000
+15:14:38; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2440000
+15:14:40;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2450000
+15:14:40; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2450000
+15:14:42;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2460000
+15:14:42; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2460000
+15:14:43;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2470000
+15:14:43; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2470000
+15:14:45;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2480000
+15:14:45; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2480000
+15:14:47;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2490000
+15:14:47; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2490000
+15:14:49;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2500000
+15:14:49; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2500000
+15:14:51;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2510000
+15:14:51; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2510000
+15:14:53;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2520000
+15:14:53; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2520000
+15:14:54;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2530000
+15:14:54; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2530000
+15:14:56;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2540000
+15:14:56; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2540000
+15:14:59;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2550000
+15:14:59; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2550000
+15:15:00;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2560000
+15:15:00; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2560000
+15:15:02;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2570000
+15:15:02; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2570000
+15:15:04;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2580000
+15:15:04; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2580000
+15:15:06;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2590000
+15:15:06; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2590000
+15:15:07;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2600000
+15:15:07; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2600000
+15:15:09;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2610000
+15:15:09; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2610000
+15:15:11;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2620000
+15:15:11; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2620000
+15:15:13;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2630000
+15:15:13; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2630000
+15:15:15;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2640000
+15:15:15; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2640000
+15:15:17;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2650000
+15:15:17; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2650000
+15:15:19;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2660000
+15:15:19; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2660000
+15:15:21;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2670000
+15:15:21; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2670000
+15:15:23;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2680000
+15:15:23; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2680000
+15:15:24;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2690000
+15:15:24; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2690000
+15:15:26;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2700000
+15:15:26; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2700000
+15:15:28;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2710000
+15:15:28; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2710000
+15:15:30;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2720000
+15:15:30; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2720000
+15:15:32;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2730000
+15:15:32; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2730000
+15:15:34;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2740000
+15:15:34; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2740000
+15:15:36;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2750000
+15:15:36; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2750000
+15:15:38;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2760000
+15:15:38; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2760000
+15:15:40;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2770000
+15:15:40; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2770000
+15:15:42;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2780000
+15:15:42; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2780000
+15:15:44;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2790000
+15:15:44; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2790000
+15:15:46;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2800000
+15:15:46; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2800000
+15:15:48;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2810000
+15:15:48; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2810000
+15:15:50;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2820000
+15:15:50; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2820000
+15:15:52;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2830000
+15:15:52; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2830000
+15:15:54;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2840000
+15:15:54; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2840000
+15:15:56;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2850000
+15:15:56; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2850000
+15:15:58;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2860000
+15:15:58; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2860000
+15:16:00;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2870000
+15:16:00; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2870000
+15:16:02;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2880000
+15:16:02; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2880000
+15:16:04;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2890000
+15:16:04; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2890000
+15:16:06;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2900000
+15:16:06; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2900000
+15:16:08;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2910000
+15:16:08; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2910000
+15:16:10;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2920000
+15:16:10; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2920000
+15:16:12;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2930000
+15:16:12; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2930000
+15:16:14;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2940000
+15:16:14; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2940000
+15:16:16;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2950000
+15:16:16; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2950000
+15:16:18;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2960000
+15:16:18; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2960000
+15:16:20;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2970000
+15:16:20; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2970000
+15:16:22;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2980000
+15:16:22; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2980000
+15:16:24;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2990000
+15:16:24; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 2990000
+15:16:26;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3000000
+15:16:26; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3000000
+15:16:28;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3010000
+15:16:28; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3010000
+15:16:30;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3020000
+15:16:30; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3020000
+15:16:32;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3030000
+15:16:32; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3030000
+15:16:34;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3040000
+15:16:34; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3040000
+15:16:36;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3050000
+15:16:36; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3050000
+15:16:38;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3060000
+15:16:38; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3060000
+15:16:40;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3070000
+15:16:40; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3070000
+15:16:42;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3080000
+15:16:42; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3080000
+15:16:44;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3090000
+15:16:44; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3090000
+15:16:46;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3100000
+15:16:46; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3100000
+15:16:48;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3110000
+15:16:48; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3110000
+15:16:50;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3120000
+15:16:50; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3120000
+15:16:52;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3130000
+15:16:52; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3130000
+15:16:54;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3140000
+15:16:54; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3140000
+15:16:56;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3150000
+15:16:56; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3150000
+15:16:58;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3160000
+15:16:58; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3160000
+15:17:00;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3170000
+15:17:00; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3170000
+15:17:02;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3180000
+15:17:02; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3180000
+15:17:04;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3190000
+15:17:04; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3190000
+15:17:06;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3200000
+15:17:06; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3200000
+15:17:08;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3210000
+15:17:08; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3210000
+15:17:10;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3220000
+15:17:10; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3220000
+15:17:12;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3230000
+15:17:12; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3230000
+15:17:14;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3240000
+15:17:14; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3240000
+15:17:16;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3250000
+15:17:16; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3250000
+15:17:18;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3260000
+15:17:18; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3260000
+15:17:20;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3270000
+15:17:20; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3270000
+15:17:22;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3280000
+15:17:22; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3280000
+15:17:24;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3290000
+15:17:24; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3290000
+15:17:26;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3300000
+15:17:26; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3300000
+15:17:28;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3310000
+15:17:28; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3310000
+15:17:30;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3320000
+15:17:30; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3320000
+15:17:32;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3330000
+15:17:32; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3330000
+15:17:34;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3340000
+15:17:34; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3340000
+15:17:36;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3350000
+15:17:36; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3350000
+15:17:38;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3360000
+15:17:38; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3360000
+15:17:40;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3370000
+15:17:40; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3370000
+15:17:42;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3380000
+15:17:42; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3380000
+15:17:44;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3390000
+15:17:44; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3390000
+15:17:46;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3400000
+15:17:46; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3400000
+15:17:48;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3410000
+15:17:48; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3410000
+15:17:50;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3420000
+15:17:50; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3420000
+15:17:52;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3430000
+15:17:52; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3430000
+15:17:54;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3440000
+15:17:54; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3440000
+15:17:57;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3450000
+15:17:57; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3450000
+15:17:59;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3460000
+15:17:59; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3460000
+15:18:01;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3470000
+15:18:01; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3470000
+15:18:03;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3480000
+15:18:03; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3480000
+15:18:05;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3490000
+15:18:05; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3490000
+15:18:07;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3500000
+15:18:07; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3500000
+15:18:09;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3510000
+15:18:09; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3510000
+15:18:11;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3520000
+15:18:11; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3520000
+15:18:13;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3530000
+15:18:13; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3530000
+15:18:15;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3540000
+15:18:15; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3540000
+15:18:17;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3550000
+15:18:17; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3550000
+15:18:19;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3560000
+15:18:19; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3560000
+15:18:22;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3570000
+15:18:22; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3570000
+15:18:24;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3580000
+15:18:24; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3580000
+15:18:27;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3590000
+15:18:27; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3590000
+15:18:29;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3600000
+15:18:29; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3600000
+15:18:31;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3610000
+15:18:31; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3610000
+15:18:33;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3620000
+15:18:33; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3620000
+15:18:35;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3630000
+15:18:35; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3630000
+15:18:37;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3640000
+15:18:37; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3640000
+15:18:39;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3650000
+15:18:39; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3650000
+15:18:41;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3660000
+15:18:41; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3660000
+15:18:43;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3670000
+15:18:43; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3670000
+15:18:45;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3680000
+15:18:45; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3680000
+15:18:47;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3690000
+15:18:47; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3690000
+15:18:49;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3700000
+15:18:49; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3700000
+15:18:51;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3710000
+15:18:51; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3710000
+15:18:53;172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3720000
+15:18:53; 172.16.8.89;8703;<http://localhost:8703/geonames>;SELECT ?location ?y WHERE {
+        ?y <http://www.geonames.org/ontology#name> ?location
+
+} LIMIT 10000 OFFSET 3720000
+15:18:55;172.16.8.89;8711;<http://localhost:8711/dbpediaLabels>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:18:56;172.16.8.89;8719;<http://localhost:8719/dbpediaLGD>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:18:56;172.16.8.89;8709;<http://localhost:8709/dbpediaInstancesTypes>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:18:57;172.16.8.89;8718;<http://localhost:8718/dbpediaNytimes>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:18:57;172.16.8.89;8712;<http://localhost:8712/dbpediaArticles>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:18:58;172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:18:58;172.16.8.89;8713;<http://localhost:8713/dbpediaCategoryLabels>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent . }
+15:18:58;172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent .?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:18:58;172.16.8.89;8711;<http://localhost:8711/dbpediaLabels>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:18:58;172.16.8.89;8719;<http://localhost:8719/dbpediaLGD>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:18:58;172.16.8.89;8709;<http://localhost:8709/dbpediaInstancesTypes>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:18:58;172.16.8.89;8718;<http://localhost:8718/dbpediaNytimes>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:18:58;172.16.8.89;8712;<http://localhost:8712/dbpediaArticles>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:18:58;172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:18:58;172.16.8.89;8713;<http://localhost:8713/dbpediaCategoryLabels>;ASK { ?parent <http://www.geonames.org/ontology#name> 'California' . }
+15:18:58;172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?location <http://www.geonames.org/ontology#parentFeature> ?parent .?parent <http://www.geonames.org/ontology#name> 'California' .?y <http://www.geonames.org/ontology#name> ?location . }
+15:18:58;172.16.8.89;8704;<http://localhost:8704/nytimesNews>;ASK { ?y <http://data.nytimes.com/elements/topicPage> ?news .?y <http://www.geonames.org/ontology#name> ?location . }
+15:18:58;172.16.8.89;8711;<http://localhost:8711/dbpediaLabels>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:18:59;172.16.8.89;8719;<http://localhost:8719/dbpediaLGD>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:18:59;172.16.8.89;8709;<http://localhost:8709/dbpediaInstancesTypes>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:18:59;172.16.8.89;8718;<http://localhost:8718/dbpediaNytimes>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:19:00;172.16.8.89;8712;<http://localhost:8712/dbpediaArticles>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:19:01;172.16.8.89;8703;<http://localhost:8703/geonames>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:19:01;172.16.8.89;8713;<http://localhost:8713/dbpediaCategoryLabels>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
+15:19:02;172.16.8.89;8704;<http://localhost:8704/nytimesNews>;ASK { ?y <http://www.geonames.org/ontology#name> ?location . }
